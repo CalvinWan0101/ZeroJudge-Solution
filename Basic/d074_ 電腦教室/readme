@@ -1,0 +1,6 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=d074
+這種題目都會跟你說他要輸入幾筆資料
+好煩
+while(cin>>n)
+順便找最大就好了
+但他給了那就用吧

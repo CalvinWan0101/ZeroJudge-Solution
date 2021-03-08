@@ -1,0 +1,7 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a216
+動態規劃吧
+關係式已經有了
+就直接建f[30001]&g[30001]
+反正30000也還好不會太多
+然後陣列是long long unsigned int來存不然會爆開
+基本就能AC了

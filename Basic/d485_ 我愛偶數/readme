@@ -1,0 +1,4 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=d485
+((a % 2 == 1 && b % 2 == 1) ? (b - a) / 2 : (b - a) / 2 + 1)
+判斷一下a,b的狀態
+會發現其實只要處理兩個都奇數跟除外的狀況

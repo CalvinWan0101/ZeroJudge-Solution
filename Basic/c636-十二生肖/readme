@@ -1,0 +1,11 @@
+https://zerojudge.tw/ShowProblem?problemid=c636
+if (n < 0)
+  cout << animals[(n + 120) % 12] << '\n';
+else
+  cout << animals[(n + 119) % 12] << '\n';
+
+這個可以寫成
+cout<<animals[(n+119+(n<0))%12]<<'\n';
+如果n<0他就會會是1
+如果n>=0他就會是0
+會比較方便但是好像我用的不太上手

@@ -1,0 +1,3 @@
+https://zerojudge.tw/ShowProblem?problemid=b572
+小時的算法應該是(h2-h1-1)*60
+可是如果h1=h2就要額外立條件不然會是-60XDDDDD

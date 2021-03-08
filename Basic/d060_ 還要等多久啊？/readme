@@ -1,0 +1,4 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=d060
+((n <= 25) ? 25 - n : 85 - n)
+不用if
+哭哭格式差點忘記

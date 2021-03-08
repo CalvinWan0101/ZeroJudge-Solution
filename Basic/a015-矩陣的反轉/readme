@@ -1,0 +1,4 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a015
+其實就只是把x,y坐標對調而已
+輸入原始陣列[x][y]的時候同時把反轉後陣列的[y][x]陣列數值給填上
+最後要記得以上限x,y對調的迴圈輸出不然會錯誤

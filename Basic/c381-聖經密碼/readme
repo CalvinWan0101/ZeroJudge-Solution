@@ -1,0 +1,8 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=c381
+用string+string就可以了
+string的補充鏈接 ▶ https://www.cnblogs.com/54chensongxia/p/13640352.html
+
+简单总结（摘錄自上網址）
+String 的长度是有限制的。
+编译期的限制：字符串的UTF8编码值的字节数不能超过65535，字符串的长度不能超过65534；
+运行时限制：字符串的长度不能超过2^31-1，占用的内存数不能超过虚拟机能够提供的最大值。

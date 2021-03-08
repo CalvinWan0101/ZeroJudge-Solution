@@ -1,0 +1,4 @@
+https://zerojudge.tw/ShowProblem?problemid=f070
+直接從1開始試
+for (int i = 1; i <= 10000000; i++)
+不會爆親測有效

@@ -1,0 +1,16 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=d124
+建立一個string來存輸入的原始數據
+建立一個int array然後轉換string每一位存入array
+int sum=0
+輸入正數時(第一格內不是負號，0也包含在這個條件裡)：
+for(int i=0;i<a.length();i++)
+從第0位開始，sum+=array[i]
+加完之後直接%=3;
+然後一直到
+if (i == a.length() - 1 && sum != 0)
+cout << "no" << endl;
+else if (i == a.length() - 1 && sum == 0)
+cout << "yes" << endl;
+輸入負數時：
+跟上面一樣
+只是從第1位開始

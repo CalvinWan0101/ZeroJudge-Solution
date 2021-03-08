@@ -1,0 +1,5 @@
+https://zerojudge.tw/ShowProblem?problemid=b759
+不需要開額外的長度啊
+直接用迴圈讀原始陣列就好了啊
+如果i超出去的話
+i%a.length()

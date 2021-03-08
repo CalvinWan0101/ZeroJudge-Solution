@@ -1,0 +1,3 @@
+https://zerojudge.tw/ShowProblem?problemid=b969
+要注意的就是後面的問候語也會有空格出現
+所以也要用getline

@@ -1,0 +1,9 @@
+https://zerojudge.tw/ShowProblem?problemid=b923
+推薦網站：
+https://www.csie.ntu.edu.tw/~b98902112/cpp_and_algo/cpp02/stack.html
+基本上就是設一個陣列
+然後一個初始值為0的變數要跟著你的操作跑
+EX.
+輸入的話變數++
+刪除的話變數--
+印出的話變數不變

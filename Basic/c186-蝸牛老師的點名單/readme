@@ -1,0 +1,6 @@
+https://zerojudge.tw/ShowProblem?problemid=c186
+start=end+1
+算是蠻簡單的string切割
+每個名字中間只有一個空格隔開
+開始要用getline
+大概也就這樣

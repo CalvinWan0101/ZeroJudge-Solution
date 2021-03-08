@@ -1,0 +1,4 @@
+https://zerojudge.tw/ShowProblem?problemid=a915
+先以x為標準從小到大排列
+y的話就是if (array[i][1] > array[j][1] && array[i][0] == array[j][0])
+同時滿足條件就兩個換一下位置唄

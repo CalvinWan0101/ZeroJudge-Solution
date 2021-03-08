@@ -1,0 +1,6 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a059
+因為範圍不大所以可以先建表
+array[i]=i*i
+然後找最小的i和最大的i
+最後開一個迴圈從最小到最大的i
+cout+=array[i]

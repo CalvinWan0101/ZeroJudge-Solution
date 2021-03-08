@@ -1,0 +1,4 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a020
+主要的部分就是把輸入的字串拆開來看吧
+然後switch分成26個字母的case
+再依照他給的公式去計算

@@ -1,0 +1,4 @@
+https://zerojudge.tw/ShowProblem?problemid=e343
+題目要求約分到小數點後一位
+啊就fixed<<setprecision(1)
+AC讚

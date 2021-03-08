@@ -1,0 +1,6 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a224
+我一開始以為是問說有雜項不分大小寫的迴文怎麼判斷
+但題目問的是【能否拼湊組成回文】
+啊就bucket陣列記錄一下啊
+出現奇數次的字母只能有一個
+AC簡單

@@ -1,0 +1,4 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a149
+考的是字串和數字的轉換
+count*=a[i]-'0'或是count*=a[i]-48都是可行的
+意思相同

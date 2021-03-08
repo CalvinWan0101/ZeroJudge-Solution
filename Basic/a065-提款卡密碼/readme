@@ -1,0 +1,5 @@
+題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a065
+array[i] = a[i - 1] - a[i];
+他可以直接這樣做計算
+比較需要注意的是他要求的是距離
+所以<0的時候要*=-1
