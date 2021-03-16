@@ -1,11 +1,13 @@
 題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a982
+
 我一開始用DFS寫，但是不知道是不是我的問題，反正最後一個測資就超時了,好吧那就只好屈服了,拿出好棒棒BFS。
 
 先建立一個struct point，放x,y,step(走的次數)
 
 ```c++
-struct point{
-int x, y, step;
+struct point
+{
+    int x, y, step;
 };
 ```
 
