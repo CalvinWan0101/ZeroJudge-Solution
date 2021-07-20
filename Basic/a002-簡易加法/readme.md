@@ -1,4 +1,4 @@
-# a002-簡易加法 解題報告
+### a002-簡易加法 解題報告
 
 [題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a002)
 
