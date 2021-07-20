@@ -28,4 +28,4 @@
 
 | # | Title | 所屬題庫 | 解題報告 | 演算法/資料結構|
 |---| ----- | ------- | ------- |---------------|
-|a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫||輸出輸入|
+|a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫|[Click Here](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a001-%E5%93%88%E5%9B%89)|輸出輸入|
