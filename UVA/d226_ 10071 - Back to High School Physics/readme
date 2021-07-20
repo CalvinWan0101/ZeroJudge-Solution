@@ -1,9 +1,0 @@
-題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=d226
-初速=(V-a)
-末速=(V+a)
-距離 = ( 初速 + 末速 ) x 時間 /2
-= (V-a+V+a)*2t/2
-=2V*2t/2
-=2Vt
-
- 
