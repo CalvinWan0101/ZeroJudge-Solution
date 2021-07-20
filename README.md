@@ -24,3 +24,8 @@
 - [UVA題庫](https://zerojudge.tw/Problems?tabid=UVA#tab03)
 - [原創/不分類題庫](https://zerojudge.tw/Problems?tabid=ORIGINAL#tab04)
 
+##
+
+| # | Title | 所屬題庫 | 解題報告 | 演算法/資料結構|
+|---| ----- | ------- | ------- |---------------|
+|a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫||輸出輸入|
