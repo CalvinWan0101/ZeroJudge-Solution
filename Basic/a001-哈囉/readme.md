@@ -2,7 +2,7 @@
 
 ### 題目鏈接
 
-[Click Here](https://zerojudge.tw/ShowProblem?problemid=a001)
+[Click Here👈](https://zerojudge.tw/ShowProblem?problemid=a001)
 
 ### 解題報告
 
