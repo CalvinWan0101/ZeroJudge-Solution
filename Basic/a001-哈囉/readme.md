@@ -1,10 +1,24 @@
-### a001-哈囉 解題報告
+# a001-哈囉 
 
-[題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a001)
+### 題目鏈接
 
-輸入一個子串然後輸出"hello 字串"
+[Click Here](https://zerojudge.tw/ShowProblem?problemid=a001)
 
-`cout<<"hello "<<input<<endl;`
+### 解題報告
 
+輸入一個字串然後輸出"hello 字串"
 
-java都忘得差不多了py的部分是凌晨被人挖起來研究的
+```c++
+//C++
+cout<<"hello "<<input<<endl;
+```
+
+```java
+//Java
+System.out.println("hello, " + s);
+```
+
+```py
+# Python
+print('hello,',a)
+```
