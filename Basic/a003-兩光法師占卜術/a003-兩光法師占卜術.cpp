@@ -16,4 +16,5 @@ int main()
 			cout << "大吉" << '\n';
 			break;
 		}
+	return 0;
 }

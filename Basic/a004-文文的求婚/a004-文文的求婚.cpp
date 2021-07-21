@@ -10,4 +10,5 @@ int main()
 		else
 			cout << "平年" << '\n';
 	}
+	return 0;
 }

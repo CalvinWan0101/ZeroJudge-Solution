@@ -1,10 +1,10 @@
-# a001-哈囉 
+# a001_哈囉 
 
 ### 🔗題目鏈接
 
 [Click Here👈](https://zerojudge.tw/ShowProblem?problemid=a001)
 
-### 📃解題報告
+### 📋解題報告
 
 輸入一個字串然後輸出"hello 字串"
 
