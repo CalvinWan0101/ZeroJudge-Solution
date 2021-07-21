@@ -1,9 +1,4 @@
-題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a003
-利用switch分狀況
-分別為0,1,2的狀況
-再印出題目要求印出相對應的結果
-
-# a003-
+# a003_兩光法師占卜術
 
 ### 🔗題目鏈接
 
