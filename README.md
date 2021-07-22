@@ -17,7 +17,7 @@
 ## 🍖對於初初初學者
 如果看不懂歡迎聯繫我一起討論，但如果只是單純的複製粘貼我的CODE我想那應該不是一個正確的學習方式吧!也許沒有人會知道，AC題數也可以一夜飆升(我看過十秒1題，三天400題的)。但那終究只是虛名，真正重要的是自己的實力是否有得到提升，能不能好好利用每一個訓練的機會。所以，遇到不會的題目，看看解題報告提到的演算法爬文找資料(資工人的基本能力啊!)，好好想想，相信你也可以找到寫程式的樂趣!
 
-## ZeroJudge各題庫鏈接
+## 🔗ZeroJudge各題庫鏈接
 - [基礎題庫](https://zerojudge.tw/Problems?tabid=BASIC#tab00)
 - [競賽題庫](https://zerojudge.tw/Problems?tabid=CONTEST#tab01)
 - [IOI/APCS題庫](https://zerojudge.tw/Problems?tabid=TOI#tab02)
