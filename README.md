@@ -40,4 +40,3 @@
 |d143|[11172_Relational Operators](https://zerojudge.tw/ShowProblem?problemid=d143)|UVA|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/UVA/d143_11172_Relational%20Operators)|條件判斷|
 |d659|[11727_Cost Cutting](https://zerojudge.tw/ShowProblem?problemid=d659)|UVA|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/UVA/d659_11727_Cost%20Cutting)|排序|
 
-t
