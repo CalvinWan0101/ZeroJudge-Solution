@@ -1,6 +1,6 @@
 # a001_哈囉 
 
-[🔗題目鏈接👈](https://zerojudge.tw/ShowProblem?problemid=a001)
+[🔗題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a001)
 
 ### 📋解題報告
 
