@@ -1,6 +1,6 @@
 ## 📋解題報告
 
-[🔗題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a001)
+🔗[題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a001)
 
 輸入一個字串然後輸出"hello 字串"
 
