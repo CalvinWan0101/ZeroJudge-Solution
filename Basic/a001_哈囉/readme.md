@@ -1,4 +1,4 @@
-## 📋a001_哈囉解題報告
+## 📋解題報告
 
 [🔗題目鏈接](https://zerojudge.tw/ShowProblem?problemid=a001)
 
