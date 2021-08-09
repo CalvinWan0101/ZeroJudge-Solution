@@ -18,10 +18,10 @@
 <!-- |題號|[題目名稱](題目鏈接)|題庫|[Click Here👈](解題報告鏈接)|演算法/資料結構的使用| -->
 <!-- ||[]()||[Click Here👈]()|| -->
 
-| # | Title | 所屬題庫 | 解題報告 | 演算法/資料結構|
-|---| ----- | ------- | ------- |---------------|
-|a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a001_%E5%93%88%E5%9B%89)|輸出輸入|
-|a002|[簡易加法](https://zerojudge.tw/ShowProblem?problemid=a002)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a002_%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95)|計算|
+| # | Title | Class | Solution | Algorithm |
+| - | ----- | ----- |----------| --------- |
+|a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a001_%E5%93%88%E5%9B%89)| 輸出輸入 |
+|a002|[簡易加法](https://zerojudge.tw/ShowProblem?problemid=a002)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a002_%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95)| 計算 |
 |a003|[兩光法師](https://zerojudge.tw/ShowProblem?problemid=a003)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a003_%E5%85%A9%E5%85%89%E6%B3%95%E5%B8%AB%E5%8D%A0%E5%8D%9C%E8%A1%93)|條件判斷|
 |a004|[文文的求婚](https://zerojudge.tw/ShowProblem?problemid=a004)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a004_%E6%96%87%E6%96%87%E7%9A%84%E6%B1%82%E5%A9%9A)|條件判斷|
 |a005|[Eva的回家作業](https://zerojudge.tw/ShowProblem?problemid=a005)|基礎題庫|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/Basic/a005_Eva%E7%9A%84%E5%9B%9E%E5%AE%B6%E4%BD%9C%E6%A5%AD)|數學|

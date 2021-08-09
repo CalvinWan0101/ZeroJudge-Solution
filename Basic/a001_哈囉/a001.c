@@ -9,6 +9,6 @@ int main()
     int a[10];
     // 當輸入字串a的時候就會輸出"hello, "+ a
     while (scanf("%s", &a) == 1)
-        printf("hello, %s", a);
+        printf("hello, %s\n", a);
     return 0;
 }

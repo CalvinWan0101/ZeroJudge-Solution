@@ -10,6 +10,6 @@ int main()
     string a;
     // 當輸入字串a的時候就會輸出"hello, "+ a
     while (cin >> a)
-        cout << "hello, " << a << '\n';
+        cout << "hello, " << a <<endl;
     return 0;
 }
