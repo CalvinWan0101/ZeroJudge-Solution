@@ -3,7 +3,7 @@
 // 時間 : 2021/08/10
 
 import java.util.Scanner;
-public class first {
+public class a001 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         // 建立一個input的字串a
