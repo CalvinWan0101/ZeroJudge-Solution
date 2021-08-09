@@ -1,7 +1,3 @@
-### 賬號鏈接
-
-[協同意大利麵的最後希望](https://zerojudge.tw/UserStatistic?id=119723)
-
 ### ⚠警告
 我大概會花一個月去整頓這個Repository,所以資料的佈局,總表的範圍都會有所改變
 
