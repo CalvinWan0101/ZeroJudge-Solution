@@ -2,10 +2,10 @@
 
 😙[協同意大利麵的最後希望](https://zerojudge.tw/UserStatistic?id=119723)😙
 
-## ⛔警告
+### ⛔警告
 我大概會花一個月去整頓這個Repository,所以資料的佈局,總表的範圍都會有所改變
 
-## 🍔簡單介紹
+### 🍔簡單介紹
 這裡存放著我的解題過程，每一題會開一個資料夾來存放包含以下內容:
 - 各種語言的解法(C++ , C , Java , Python)
 - 簡單的解題過程以及題目鏈接
@@ -16,17 +16,17 @@
 - 需要注意的問題(測資問題,輸入輸出要注意的點...)
 - 在討論區收集到的刁鑽測資
 
-## 🍩使用前請先詳細閱讀公開說明書
+### 🍩使用前請先詳細閱讀公開說明書
 由於本人真正開始學習寫程式也是不到一年前的事情，很多東西包含演算法或是單純語言都沒有很透徹的認知。我的程式只能保證可以AC而不能保證能"最快最小"，若是你發現了什麼問題或是有什麼更厲害的方法非常歡迎聯繫我!聯絡方式在我的Github profile上可以找到。如果有看不懂的地方也歡迎聯絡我，我很願意去分享我的解題思路，畢竟教學相長相信我也能在過程中有所成長。
 
-## 🔗ZeroJudge各題庫鏈接
+### 🔗ZeroJudge各題庫鏈接
 - [基礎題庫](https://zerojudge.tw/Problems?tabid=BASIC#tab00)
 - [競賽題庫](https://zerojudge.tw/Problems?tabid=CONTEST#tab01)
 - [IOI/APCS題庫](https://zerojudge.tw/Problems?tabid=TOI#tab02)
 - [UVA題庫](https://zerojudge.tw/Problems?tabid=UVA#tab03)
 - [原創/不分類題庫](https://zerojudge.tw/Problems?tabid=ORIGINAL#tab04)
 
-## 目錄(請善用CTRL+F)
+### 目錄(請善用CTRL+F)
 
 <!-- |題號|[題目名稱](題目鏈接)|題庫|[Click Here👈](解題報告鏈接)|演算法/資料結構的使用| -->
 <!-- ||[]()||[Click Here👈]()|| -->
