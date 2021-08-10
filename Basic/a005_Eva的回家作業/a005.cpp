@@ -6,6 +6,8 @@
 using namespace std;
 int main()
 {
+	// n = 資料的組數
+	// sequence陣列拿來存放原始數列以及第5項
 	int n, sequence[5];
 	cin >> n;
 	while (n--)
