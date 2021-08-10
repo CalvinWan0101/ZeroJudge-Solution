@@ -16,7 +16,7 @@
 ## 目錄(CTRL+F)
 
 <!-- |題號|[題目名稱](題目鏈接)|題庫|[Click Here👈](解題報告鏈接)|演算法/資料結構的使用| -->
-<!-- ||[]()||[Click Here👈]()|| -->
+<!-- ||[]()||[]()|| -->
 
 | # | Title | Class | Solution | Algorithm |
 | - | ----- | ----- |----------| --------- |
@@ -26,5 +26,6 @@
 |a004|[文文的求婚](https://zerojudge.tw/ShowProblem?problemid=a004)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a004_%E6%96%87%E6%96%87%E7%9A%84%E6%B1%82%E5%A9%9A/a004.cpp)| 條件判斷 |
 |a005|[Eva的回家作業](https://zerojudge.tw/ShowProblem?problemid=a005)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a005_Eva%E7%9A%84%E5%9B%9E%E5%AE%B6%E4%BD%9C%E6%A5%AD/a005.cpp)| 數學 |
 |a006|[一元二次方程式](https://zerojudge.tw/ShowProblem?problemid=a006)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a006_%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F/a006.cpp)| 數學 |
+|a009|[解碼器](https://zerojudge.tw/ShowProblem?problemid=a009)|基礎題庫|[C](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a009-%E8%A7%A3%E7%A2%BC%E5%99%A8/a009.c)[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a009-%E8%A7%A3%E7%A2%BC%E5%99%A8/a009.cpp)| 字串處理 |
 |d143|[11172_Relational Operators](https://zerojudge.tw/ShowProblem?problemid=d143)|UVA|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/UVA/d143_11172_Relational%20Operators)|條件判斷|
 |d659|[11727_Cost Cutting](https://zerojudge.tw/ShowProblem?problemid=d659)|UVA|[Click Here👈](https://github.com/CalvinWan0101/ZeroJudge/tree/main/UVA/d659_11727_Cost%20Cutting)|排序|
