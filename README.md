@@ -28,3 +28,5 @@
 |a006|[一元二次方程式](https://zerojudge.tw/ShowProblem?problemid=a006)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a006_%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F/a006.cpp)| 數學 |
 |a009|[解碼器](https://zerojudge.tw/ShowProblem?problemid=a009)|基礎題庫|[C](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a009-%E8%A7%A3%E7%A2%BC%E5%99%A8/a009.c) [C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a009-%E8%A7%A3%E7%A2%BC%E5%99%A8/a009.cpp)| 字串處理 |
 |a010|[因數分解](https://zerojudge.tw/ShowProblem?problemid=a010)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a010-%E5%9B%A0%E6%95%B8%E5%88%86%E8%A7%A3/a010.cpp)| 迴圈 |
+
+test
