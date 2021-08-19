@@ -1,7 +1,36 @@
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=a020
+// 作者 : Calvin Wan
+// 時間 : 2021/08/19
+
 #include <iostream>
-#include<string>
+#include <string>
 #include <sstream>
+
 //一個用來轉換開頭英文字母的小小函數
+int tran(char z[]);
+
+using namespace std;
+int main()
+{
+	char orgin[11];
+	cin >> orgin;
+	//創建整數陣列容納後面9個數字
+	int intarry[9];
+	for (int i = 0; i < 9; i++)
+	{
+		// stringstream 參考 https://home.gamer.com.tw/creationDetail.php?sn=4114818
+		stringstream transferA;
+		transferA << orgin[i + 1];
+		transferA >> intarry[i];
+	}
+	//召喚字母計算函數！！！
+	int sum = tran(orgin) + intarry[0] * 8 + intarry[1] * 7 + intarry[2] * 6 + intarry[3] * 5 + intarry[4] * 4 + intarry[5] * 3 + intarry[6] * 2 + intarry[7] * 1 + intarry[8] * 1;
+	if (sum % 10 == 0)
+		cout << "real" << endl;
+	else
+		cout << "fake" << endl;
+}
+
 int tran(char z[])
 {
 	int back;
@@ -10,7 +39,7 @@ int tran(char z[])
 	case 'A':
 		back = 10;
 		break;
-	case'B':
+	case 'B':
 		back = 11;
 		break;
 	case 'C':
@@ -87,24 +116,4 @@ int tran(char z[])
 		break;
 	}
 	return (back / 10) + (back % 10) * 9;
-}
-using namespace std;
-int main()
-{
-	char orgin[11];
-	cin >> orgin;
-	//創建整數陣列容納後面9個數字
-	int intarry[9];
-	for (int i = 0; i < 9; i++)
-	{
-		stringstream transferA;
-		transferA << orgin[i + 1];
-		transferA >> intarry[i];
-	}
-	//召喚字母計算函數！！！
-	int sum = tran(orgin) + intarry[0] * 8 + intarry[1] * 7 + intarry[2] * 6 + intarry[3] * 5 + intarry[4] * 4 + intarry[5] * 3 + intarry[6] * 2 + intarry[7] * 1 + intarry[8] * 1;
-	if (sum % 10 == 0)
-		cout << "real" << endl;
-	else
-		cout << "fake" << endl;
 }
