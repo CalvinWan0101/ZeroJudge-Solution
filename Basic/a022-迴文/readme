@@ -1,8 +1,0 @@
-題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a022
-輸入一個string變數
-然後一個迴圈從第一個掃到最後一個
-如果第i個跟第a.length()-1-i不同
-馬上break
-然後know=1
-know==0代表yes
-know==1代表no

@@ -8,4 +8,4 @@ int main()
     while (cin >> n >> m)
         cout << n * m - 1 << endl;
     return 0;
-}
+}  
