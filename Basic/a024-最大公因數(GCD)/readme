@@ -1,8 +1,0 @@
-題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a024
-如果只是取a,b比較小的那個然後-1-1慢慢試會TLE
-所以我這邊比較懶直接用函數了
-int gcd(int a, int b) 
-{
-	return a % b == 0 ? b : gcd(b, a % b);
-}
-這樣就AC了
