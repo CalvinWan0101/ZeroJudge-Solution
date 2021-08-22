@@ -33,3 +33,4 @@
 |a020|[身份證檢驗](https://zerojudge.tw/ShowProblem?problemid=a020)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a020-%E8%BA%AB%E4%BB%BD%E8%AD%89%E9%A9%97%E7%AE%97/a020.cpp)|字串處理|
 |a022|[迴文](https://zerojudge.tw/ShowProblem?problemid=a022)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a022-%E8%BF%B4%E6%96%87/a022.cpp)|字串處理|
 |a024|[最大公因數(GCD)](https://zerojudge.tw/ShowProblem?problemid=a024)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a024-%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B8(GCD)/a024.cpp)|數學|
+|a034|[二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034)|基礎題庫||[C++]()|數學|
