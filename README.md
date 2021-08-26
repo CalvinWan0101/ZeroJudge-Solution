@@ -31,7 +31,7 @@
 |a013|[羅馬數字](https://zerojudge.tw/ShowProblem?problemid=a013)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a013_%E7%BE%85%E9%A6%AC%E6%95%B8%E5%AD%97/a013.cpp)| 字串處理 |
 |a015|[矩陣的翻轉](https://zerojudge.tw/ShowProblem?problemid=a015)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a015_%E7%9F%A9%E9%99%A3%E7%9A%84%E5%8F%8D%E8%BD%89/a015.cpp)| 陣列 |
 |a020|[身份證檢驗](https://zerojudge.tw/ShowProblem?problemid=a020)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a020_%E8%BA%AB%E4%BB%BD%E8%AD%89%E9%A9%97%E7%AE%97/a020.cpp)|字串處理|
-|a022|[迴文](https://zerojudge.tw/ShowProblem?problemid=a022)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a022-%E8%BF%B4%E6%96%87/a022.cpp)|字串處理|
+|a022|[迴文](https://zerojudge.tw/ShowProblem?problemid=a022)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a022_%E8%BF%B4%E6%96%87/a022.cpp)|字串處理|
 |a024|[最大公因數(GCD)](https://zerojudge.tw/ShowProblem?problemid=a024)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a024_%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B8(GCD)/a024.cpp)|數學|
 |a034|[二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a034_%E4%BA%8C%E9%80%B2%E4%BD%8D%E5%88%B6%E8%BD%89%E6%8F%9B/a034.cpp)|數學|
 |d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort|
