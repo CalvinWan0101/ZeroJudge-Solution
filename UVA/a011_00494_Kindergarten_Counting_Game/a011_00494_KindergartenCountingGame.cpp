@@ -3,11 +3,11 @@
 using namespace std;
 int main()
 {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
     string a;
+    // 讀取輸入的字串(包含空格)
     while (getline(cin, a))
     {
+        // 把不是字母的元素通通變成空格
         for (int i = 0; i < a.length(); i++)
             if (a[i] <= 64 || a[i] >= 91 && a[i] <= 96 || a[i] >= 123)
                 a[i] = ' ';

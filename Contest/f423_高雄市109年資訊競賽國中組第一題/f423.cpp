@@ -2,18 +2,18 @@
 using namespace std;
 int main()
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	int n;
+	int n, i = 0;
 	cin >> n;
 	int count = 0;
 	for (int i = 1;; i += 2)
 	{
-		if (i <= n)
-			count += i;
-		else
+		if (i > n)
 			break;
+		count += i;
 	}
-	cout<<count<<endl;
+	while (i <= n)
+	{
+	}
+	cout << count << endl;
 	return 0;
 }
