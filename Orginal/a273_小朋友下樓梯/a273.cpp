@@ -1,9 +1,11 @@
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=a273
+// 作者 : Calvin Wan
+// 時間 : 2021/08/27
+
 #include <iostream>
 using namespace std;
 int main()
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
 	long long int a, b;
 	while (cin >> a >> b)
 		if (a == 0)
@@ -14,6 +16,7 @@ int main()
 		// a!=0 && b!=0
 		else if (a % b == 0)
 			cout << "Ok!" << endl;
+		// 其他都是Impossible!
 		else
 			cout << "Impossib1e!" << endl;
 	return 0;
