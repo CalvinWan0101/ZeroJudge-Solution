@@ -20,7 +20,7 @@
 
 | # | Title | Class | Solution | Algorithm |
 | - | ----- | ----- |----------| --------- |
-| ❌ | ❌ | 基礎題庫 | ❌ | ❌ |
+| ❌ | ❌ | **基礎題庫** | ❌ | ❌ |
 |a001|[哈嘍](https://zerojudge.tw/ShowProblem?problemid=a001)|基礎題庫| [C](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a001_%E5%93%88%E5%9B%89/a001.c) [C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a001_%E5%93%88%E5%9B%89/a001.cpp) [Java](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a001_%E5%93%88%E5%9B%89/a001.java) [Python](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a001_%E5%93%88%E5%9B%89/a001.py)| 輸出輸入 |
 |a002|[簡易加法](https://zerojudge.tw/ShowProblem?problemid=a002)|基礎題庫|[C](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a002_%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95/a002.c) [C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a002_%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95/a002.cpp) [Java](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a002_%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95/a002.java)| 數學 |
 |a003|[兩光法師](https://zerojudge.tw/ShowProblem?problemid=a003)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a003_%E5%85%A9%E5%85%89%E6%B3%95%E5%B8%AB%E5%8D%A0%E5%8D%9C%E8%A1%93/a003.cpp)|條件判斷|
@@ -35,7 +35,7 @@
 |a022|[迴文](https://zerojudge.tw/ShowProblem?problemid=a022)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a022_%E8%BF%B4%E6%96%87/a022.cpp)|字串處理|
 |a024|[最大公因數(GCD)](https://zerojudge.tw/ShowProblem?problemid=a024)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a024_%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B8(GCD)/a024.cpp)|數學|
 |a034|[二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a034_%E4%BA%8C%E9%80%B2%E4%BD%8D%E5%88%B6%E8%BD%89%E6%8F%9B/a034.cpp)|數學|
-| ❌ | ❌ | 競賽題庫 | ❌ | ❌ |
+| ❌ | ❌ | **競賽題庫** | ❌ | ❌ |
 |a621|[Powers of Two](https://zerojudge.tw/ShowProblem?problemid=a621)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/a621_1.Powers_of_Two/a621.cpp)|數學|
-| ❌ | ❌ | UVA題庫 | ❌ | ❌ |
+| ❌ | ❌ | **UVA題庫** | ❌ | ❌ |
 |d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort|
