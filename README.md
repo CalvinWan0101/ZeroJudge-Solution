@@ -45,5 +45,17 @@
 |f426|[高雄市109年資訊競賽國中組第四題](https://zerojudge.tw/ShowProblem?problemid=f426)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f426_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E5%9B%9B%E9%A1%8C/f426.cpp)|質數表|
 |f427|[高雄市109年資訊競賽國中組第五題](https://zerojudge.tw/ShowProblem?problemid=f427)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f427_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%BA%94%E9%A1%8C/f427.cpp)|字串處理|
 |f429|[高雄市109年資訊競賽國中組第七題](https://zerojudge.tw/ShowProblem?problemid=f429)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f429_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%B8%83%E9%A1%8C/f429.cpp)|字串處理|
+| ❌ | ❌ | **IOI/APCS題庫** | ❌ | ❌ |
 | ❌ | ❌ | **UVA題庫** | ❌ | ❌ |
 |d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort| 
+| ❌ | ❌ | **原創/不分類題庫** | ❌ | ❌ |
+|a273|[小朋友下樓梯](https://zerojudge.tw/ShowProblem?problemid=a273)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/a273_%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%8B%E6%A8%93%E6%A2%AF/a273.cpp)|條件判斷|
+|b968|[K_I_S_S_I_N_G](https://zerojudge.tw/ShowProblem?problemid=b968)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/b968_K_I_S_S_I_N_G/b968.cpp)|字串處理|
+|c676|[大家來出題(1.簡易加法)](https://zerojudge.tw/ShowProblem?problemid=c676)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/c676_%E5%A4%A7%E5%AE%B6%E4%BE%86%E5%87%BA%E9%A1%8C(1.%E7%B0%A1%E6%98%93%E5%8A%A0%E6%B3%95)/c676.cpp)|創意題|
+|d046|[文文採西瓜](https://zerojudge.tw/ShowProblem?problemid=d046)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/d046_%E6%96%87%E6%96%87%E6%8E%A1%E8%A5%BF%E7%93%9C/d046.cpp)|條件判斷|
+|d533|[複數比大小](https://zerojudge.tw/ShowProblem?problemid=d533)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/d533_%E8%A4%87%E6%95%B8%E6%AF%94%E5%A4%A7%E5%B0%8F/d533.cpp)|數學|
+|d579|[兩條線](https://zerojudge.tw/ShowProblem?problemid=d579)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/d579_%E5%85%A9%E6%A2%9D%E7%B7%9A/d579.cpp)|位數|
+|d635|[幸運777luck](https://zerojudge.tw/ShowProblem?problemid=d635)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/d635_%E5%B9%B8%E9%81%8B777luck/d635.cpp)|進制轉換|
+|e466|[邏輯問題(一)](https://zerojudge.tw/ShowProblem?problemid=e466)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/e466_%E9%82%8F%E8%BC%AF%E5%95%8F%E9%A1%8C(%E4%B8%80)/e466.cpp)|創意題|
+|f266|[Hello_Echo(Part1)](https://zerojudge.tw/ShowProblem?problemid=f266)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/f266_Hello_Echo(Part1)/f266.cpp)|迴圈|
+|f669|[FJCU_109_Winter_Day1_Lab4字串反轉](https://zerojudge.tw/ShowProblem?problemid=f669)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/f669_FJCU_109_Winter_Day1_Lab4%E5%AD%97%E4%B8%B2%E5%8F%8D%E8%BD%89/f669.cpp)|字串處理|

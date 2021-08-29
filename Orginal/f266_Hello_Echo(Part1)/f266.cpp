@@ -9,6 +9,7 @@ int main()
 	string a[5];
 	for (int i = 0; i < 5; i++)
 		cin >> a[i];
+	// 從輸出5個到4個到3個一直到1個
 	for (int i = 0; i < 5; i++)
 	{
 		for (int j = i; j < 5; j++)
