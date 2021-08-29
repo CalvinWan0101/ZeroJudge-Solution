@@ -37,5 +37,12 @@
 |a034|[二進位制轉換](https://zerojudge.tw/ShowProblem?problemid=a034)|基礎題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Basic/a034_%E4%BA%8C%E9%80%B2%E4%BD%8D%E5%88%B6%E8%BD%89%E6%8F%9B/a034.cpp)|數學|
 | ❌ | ❌ | **競賽題庫** | ❌ | ❌ |
 |a621|[Powers of Two](https://zerojudge.tw/ShowProblem?problemid=a621)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/a621_1.Powers_of_Two/a621.cpp)|數學|
+|a623|[Combination](https://zerojudge.tw/ShowProblem?problemid=a623)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/a623_3.Combination/a623.cpp)|數學|
+|b186|[97七區資訊學科1(改編)](https://zerojudge.tw/ShowProblem?problemid=b186)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/b186_97%E4%B8%83%E5%8D%80%E8%B3%87%E8%A8%8A%E5%AD%B8%E7%A7%911(%E6%94%B9%E7%B7%A8)/b186.cpp)|數學|
+|f423|[高雄市109年資訊競賽國中組第一題](https://zerojudge.tw/ShowProblem?problemid=f423)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f423_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%B8%80%E9%A1%8C/f423.cpp)|迴圈|
+|f424|[高雄市109年資訊競賽國中組第二題](https://zerojudge.tw/ShowProblem?problemid=f424)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f424_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%BA%8C%E9%A1%8C/f424.cpp)|DP|
+|f425|[高雄市109年資訊競賽國中組第三題](https://zerojudge.tw/ShowProblem?problemid=f425)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f425_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%B8%89%E9%A1%8C/f425.cpp)|數學|
+|f427|[高雄市109年資訊競賽國中組第五題](https://zerojudge.tw/ShowProblem?problemid=f427)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f427_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%BA%94%E9%A1%8C/f427.cpp)|字串處理|
+|f429|[高雄市109年資訊競賽國中組第七題](https://zerojudge.tw/ShowProblem?problemid=f429)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f429_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%B8%83%E9%A1%8C/f429.cpp)|字串處理|
 | ❌ | ❌ | **UVA題庫** | ❌ | ❌ |
-|d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort|
+|d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort| 
