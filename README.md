@@ -46,6 +46,7 @@
 |f427|[高雄市109年資訊競賽國中組第五題](https://zerojudge.tw/ShowProblem?problemid=f427)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f427_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%BA%94%E9%A1%8C/f427.cpp)|字串處理|
 |f429|[高雄市109年資訊競賽國中組第七題](https://zerojudge.tw/ShowProblem?problemid=f429)|競賽題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Contest/f429_%E9%AB%98%E9%9B%84%E5%B8%82109%E5%B9%B4%E8%B3%87%E8%A8%8A%E7%AB%B6%E8%B3%BD%E5%9C%8B%E4%B8%AD%E7%B5%84%E7%AC%AC%E4%B8%83%E9%A1%8C/f429.cpp)|字串處理|
 | ❌ | ❌ | **IOI/APCS題庫** | ❌ | ❌ |
+|b964|[Q1成績指標](https://zerojudge.tw/ShowProblem?problemid=b964)|IOI/APCS題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/IOI-APCS/b964_Q1%E6%88%90%E7%B8%BE%E6%8C%87%E6%A8%99/b964.cpp)|條件判斷|
 | ❌ | ❌ | **UVA題庫** | ❌ | ❌ |
 |d190|[11462 Age Sort](https://zerojudge.tw/ShowProblem?problemid=d190)|UVA題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/UVA/d190_11462_Age_Sort/d190.cpp)|Bucket Sort| 
 | ❌ | ❌ | **原創/不分類題庫** | ❌ | ❌ |
