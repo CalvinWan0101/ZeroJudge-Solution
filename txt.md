@@ -18,6 +18,8 @@
 <!-- |題號|[題目名稱](題目鏈接)|題庫|[Click Here👈](解題報告鏈接)|演算法/資料結構的使用| -->
 <!-- ||[]()||[]()|| -->
 
+<!--
+
 | # | Title | Class | Solution | Algorithm |
 | - | ----- | ----- |----------| --------- |
 | ❌ | ❌ | **基礎題庫** | ❌ | ❌ |
@@ -60,3 +62,5 @@
 |e466|[邏輯問題(一)](https://zerojudge.tw/ShowProblem?problemid=e466)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/e466_%E9%82%8F%E8%BC%AF%E5%95%8F%E9%A1%8C(%E4%B8%80)/e466.cpp)|創意題|
 |f266|[Hello_Echo(Part1)](https://zerojudge.tw/ShowProblem?problemid=f266)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/f266_Hello_Echo(Part1)/f266.cpp)|迴圈|
 |f669|[FJCU_109_Winter_Day1_Lab4字串反轉](https://zerojudge.tw/ShowProblem?problemid=f669)|原創/不分類題庫|[C++](https://github.com/CalvinWan0101/ZeroJudge/blob/main/Orginal/f669_FJCU_109_Winter_Day1_Lab4%E5%AD%97%E4%B8%B2%E5%8F%8D%E8%BD%89/f669.cpp)|字串處理|
+
+-->
