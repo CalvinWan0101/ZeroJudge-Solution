@@ -1,5 +1,0 @@
-題目鏈接 ▶ https://zerojudge.tw/ShowProblem?problemid=a038
-理論上就是用string存輸入的資料再反過來輸出
-但會有0的存在，而且有很多
-所以要先從後面找到第一個不是0的位置
-然後從那個位置開始一路輸出到頭

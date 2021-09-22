@@ -1,3 +1,7 @@
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=a038
+// 作者 : Calvin Wan
+// 時間 : 2021/09/22
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -6,7 +10,7 @@ int main()
     string a;
     cin >> a;
     int k = -1;
-    //找非0記錄k
+    // 找非0的最後一位
     for (int i = a.length() - 1; i >= 0; i--)
         if (a[i] != '0')
         {

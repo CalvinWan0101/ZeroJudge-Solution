@@ -1,3 +1,7 @@
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=a011
+// 作者 : Calvin Wan
+// 時間 : 2021/08/30
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -14,8 +18,10 @@ int main()
         int count = 0;
         for (int i = 0; i < a.length(); i++)
         {
+            // 找單字的結尾
             if (a[i] == ' ' && a[i - 1] != ' ')
                 count++;
+            // 整個句子的結尾
             else if (i == a.length() - 1 && a[i] != ' ')
                 count++;
         }
