@@ -1,11 +1,14 @@
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=a111
+// 作者 : Calvin Wan
+// 時間 : 2021/10/25
+
 #include <iostream>
 #include <cmath>
 using namespace std;
 int main()
 {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
     int n;
+    // 公式:n*n + (n-1)*(n-1) + (n-2)*(n-2) + ...... + 1*1
     while (cin >> n && n != 0)
     {
         int count = 0;
