@@ -1,35 +1,24 @@
-#include <iostream>
-using namespace std;
+// 題目 : https://zerojudge.tw/ShowProblem?problemid=c290
+// 作者 : Calvin Wan
+// 時間 : 2022/01/16
+
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
-	int y, x;
-	int array[20];
-	int buffer, max,count,know;
-	while (cin >> y >> x)
-	{
-		know = 0;
-		count = 0;
-		for (int i = 1; i <= y; i++)
-		{
-			max = -1;
-			for (int j = 0; j < x; j++)
-			{
-				cin >> buffer;
-				if (max < buffer)
-					max = buffer;
-			}
-			array[i] = max;
-			count += max;
-		}
-		cout << count << endl;
-		for (int i = 1; i <= y; i++)
-			if (count % array[i] == 0)
-			{
-				cout << array[i] << " ";
-				know = 1;
-			}
-			else if(know==0&&i==y)
-				cout << "-1" << endl;
-	}
-	return 0;
+    char user_input[1000];
+    int odd = 0, even = 0;
+
+    scanf("%s", user_input);
+
+    for (int i = 0; i < strlen(user_input); i++)
+        if (i % 2)
+            even += user_input[i] - 48;
+        else
+            odd += user_input[i] - 48;
+
+    printf("%d\n", odd > even ? odd - even : even - odd);
+    
+    return 0;
 }
