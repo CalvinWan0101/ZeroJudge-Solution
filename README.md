@@ -2,14 +2,13 @@
 
 *這裡存放著我在[ZeroJudge](https://zerojudge.tw)的所有解題記錄,每一題會開一個資料夾來存放各種語言的解法(C / C++ / Java / Python).目前大部分題目都只有 C 的解法,如果條件允許的話後續會逐漸補上其他語言的解法*
 
+<!--
 **🔗ZeroJudge各題庫鏈接**
 - [基礎題庫](https://zerojudge.tw/Problems?tabid=BASIC#tab00)
 - [競賽題庫](https://zerojudge.tw/Problems?tabid=CONTEST#tab01)
 - [IOI/APCS題庫](https://zerojudge.tw/Problems?tabid=TOI#tab02)
 - [UVA題庫](https://zerojudge.tw/Problems?tabid=UVA#tab03)
 - [原創/不分類題庫](https://zerojudge.tw/Problems?tabid=ORIGINAL#tab04)
-
-<!--
 
 ## 📋目錄(CTRL+F)
 <!-- |題號|[題目名稱](題目鏈接)|題庫|[Click Here👈](解題報告鏈接)|演算法/資料結構的使用| -->
